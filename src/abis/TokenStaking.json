@@ -12898,16 +12898,16 @@
       "address": "0xAf9352B33E9B08A86dD04fcD8533DbC75BD2c8d1",
       "transactionHash": "0x79d5f4128c390d2f182b27e374c52f971d67f5662169a92b448f07033f48ef54"
     },
-    "5777": {
+    "444": {
       "events": {},
       "links": {},
-      "address": "0xa673988ED5E8b8A016935cF7612B0F390A228487",
-      "transactionHash": "0x5648d3ea3809a778921de8fbd61a0cdaab707f2f5c8dcbb2b32cc3969818fb94"
+      "address": "0x864940b49593aed918711067559fa1612f268ce4",
+      "transactionHash": "0xc3ce54f6935e334f9426ce28e33d4262c5b7f3d591e0c77c5c49d44afdc88209"
     }
   },
   "schemaVersion": "3.4.1",
   "updatedAt": "2021-05-28T11:43:29.206Z",
-  "networkType": "ethereum",
+  "networkType": "altmasq",
   "devdoc": {
     "methods": {}
   },

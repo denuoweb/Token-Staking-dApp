@@ -5076,13 +5076,13 @@
         }
       },
       "links": {},
-      "address": "0xB30BF369C21946928a9f54d55654b890BD846144",
-      "transactionHash": "0x10db965396deebfdc77966feddb7062f0ad1e58388150475ce3cb27084832a52"
+      "address": "0x2a99aad5d39bc4c437d113d0779b80fd61600fa2",
+      "transactionHash": "0x22217295c6d33d5644c0fc4cde82e994bfa66be63efe25c740ba392f33c08523"
     }
   },
   "schemaVersion": "3.4.1",
   "updatedAt": "2021-05-28T11:43:29.192Z",
-  "networkType": "ethereum",
+  "networkType": "altmasq",
   "devdoc": {
     "methods": {}
   },
